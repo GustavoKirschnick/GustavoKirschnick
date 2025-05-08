@@ -10,6 +10,6 @@ I am passionate about programming, specially related to aeronautics
 
 🚀 Projects
 
-- [AutoAnki](): tool for the automatic generation of Anki flashcards using generative AI to assist language learning.
+- [AutoAnki](https://github.com/GustavoKirschnick/AutoAnki): tool for the automatic generation of Anki flashcards using generative AI to assist language learning.
 - AeroMDO: an algorithm in Python that uses Particle Swarm Optimization to optimize 12 design variables of an airplane, part of the Céu Azul organization (private repository)
 - Aero6DoF: a 6 degrees of freedom flight simulator in Python/MATLAB/Simulink to assess the dynamic behaviour of an aircraft, part of the Céu Azul organization (private repository)
