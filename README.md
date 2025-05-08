@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I am Gustavo
 
-<!--
-**GustavoKirschnick/GustavoKirschnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate mechanical engineering student at UFSC
 
-Here are some ideas to get you started:
+I am passionate about programming, specially related to aeronautics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✈️Member of [Céu Azul Aeronaves](https://github.com/CeuAzul) for 3 years
+
+💼 Currently working at Fraunhofer IPT, in Germany
+
+🚀 Projects
+
+- [AutoAnki](): tool for the automatic generation of Anki flashcards using generative AI to assist language learning.
+- AeroMDO: an algorithm in Python that uses Particle Swarm Optimization to optimize 12 design variables of an airplane, part of the Céu Azul organization (private repository)
+- Aero6DoF: a 6 degrees of freedom flight simulator in Python/MATLAB/Simulink to assess the dynamic behaviour of an aircraft, part of the Céu Azul organization (private repository)
